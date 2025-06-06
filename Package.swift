@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BDPI",
-            url: "https://github.com/Flyfrog-LLC/bpi-ios-wrapper/releases/download/v0.0.1/BDPI.xcframework.zip",
-            checksum: "1591852bb993d5855c3ae78f211fc79c152069d552570b8f4a98d2d9393c5547"
+            url: "https://github.com/Flyfrog-LLC/bpi-ios-wrapper/releases/download/v0.0.2/BDPI.xcframework.zip",
+            checksum: "fc8bc11840460a4b1693322fd273a597bf879bbb66610110c471cd29975b8827"
         )
     ]
 )
